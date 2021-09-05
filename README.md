@@ -5,7 +5,7 @@ The repository implements GCN-based GAE for monitoring technology convergence. T
 
 ### With pip
 
-This repository is built on the Package dgl version 0.4.3 with a GTX 1080 Ti graphics card.
+This repository is built on the Package dgl version 0.4.3 and Pytorch with a GTX 1080 Ti graphics card.
 
 DGL with cuda (e.g., cuda version 10.1) can be installed using pip as follows:
 
