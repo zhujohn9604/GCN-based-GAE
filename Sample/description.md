@@ -1,3 +1,1 @@
-This fold contains two sample datasets, which are patent_sample.csv and annotation_sample.csv. Both of them are snapshots of the full datasets used in the paper. 
-If one want to customize the model to your own datasets directly, you need to first create your data in the given style, naming them as 'patent.csv' and 'annotation.csv'.
-Or you can refer to the Preprocess.py and data_year.py for details.
+This fold contains two sample datasets, which are **patent_sample.csv** and **annotation_sample.csv**. Both of them are snapshots of the full datasets used in the paper. If one want to customize the model to your own datasets directly, you need to first create your data in the given style, naming them as 'patent.csv' and 'annotation.csv'. Or you can refer to the **Preprocess.py** and **data_year.py** for details.
