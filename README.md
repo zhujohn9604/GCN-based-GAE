@@ -20,5 +20,5 @@ pip install dgl==0.4.3
 ```
 
 ### Data
-If you want to customize the model to your own datasets, please go first to check the **Sample** folder for sample data formats.
+If you want to customize the model to your own datasets, please go first to check the **Sample** folder for data formats.
 
