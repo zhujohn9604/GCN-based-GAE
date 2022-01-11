@@ -1,9 +1,5 @@
 """
-File: gcn_cv_sc.py
-Author: Lukas
-Email: vim@lpag.de
-Github: https://github.com/lgalke
-Description: GCNs with Control Variate and Skip-Connections
+Reference part
 Derived from: https://raw.githubusercontent.com/dmlc/dgl/master/examples/mxnet/sampling/gcn_cv_sc.py
 """
 
